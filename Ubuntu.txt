@@ -5,10 +5,10 @@ Basic Commands in Ubuntu
 sudo mount -t cifs //192.168.0.23/d$ -o username=administrator,password=***** mnt/hyper12
 
 
-- second topic -
-..
-..
-..
+- Check Version of Ubuntu -
+lsb_release -a
+
+
 
 - Third topic -
 ...
