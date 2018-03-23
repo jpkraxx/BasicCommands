@@ -1,9 +1,9 @@
 Basic Commands in Ubuntu
 
 - To copy from Ubuntu to Windows -
-....
-....
-....
+
+sudo mount -t cifs //192.168.0.23/d$ -o username=administrator,password=***** mnt/hyper12
+
 
 - second topic -
 ..
